@@ -1,2 +1,4 @@
 # Meet-Demo
-This is me new first Git Repository.
+This is my first Git Repository.
+<br>
+Author - Meet (New)
